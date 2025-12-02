@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ルマ",
+  "base_artist": "かいりきベア",
+  "createdAt": "2025-12-02T12:25:50.046822Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ルマ",
+      "artist": "Be'Lakor",
+      "has_synced": false,
+      "path": "select/01_ルマ_Be'Lakor.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ルマ",
+      "artist": "Kairiki Bear",
+      "has_synced": true,
+      "path": "select/02_ルマ_Kairiki_Bear.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ルマ",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/03_ルマ_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ルマ",
+      "artist": "莉犬",
+      "has_synced": true,
+      "path": "select/04_ルマ_莉犬.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ルマ",
+      "artist": "かいりきベア feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/05_ルマ_かいりきベア_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ルマ (Ruma)",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/06_ルマ_(Ruma)_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ルマ (Ruma) feat. 初音ミク",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/07_ルマ_(Ruma)_feat._初音ミク_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ルマ (Ruma)",
+      "artist": "Kairiki Bear",
+      "has_synced": true,
+      "path": "select/08_ルマ_(Ruma)_Kairiki_Bear.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ルマ feat. 初音ミク",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/09_ルマ_feat._初音ミク_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ルマ",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/10_ルマ_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ルマ (Ruma)",
+      "artist": "かいりきベア (Kairiki Bear)",
+      "has_synced": true,
+      "path": "select/11_ルマ_(Ruma)_かいりきベア_(Kairiki_Bear).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルマ",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_01_ルマ_かいりきベア.txt"
+    }
+  ]
+}
